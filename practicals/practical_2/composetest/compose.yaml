@@ -8,5 +8,4 @@ services:
     develop:
       watch:
         - action: sync
-          path: .
-          target: /code
+          path:           target: /code
