@@ -96,3 +96,5 @@ This is a simplified example, but it demonstrates the basic principle of include
 ## Conclusion
 
 Docker Compose simplifies managing multi-container applications by defining services in a single YAML file. This guide covered setting up a Flask app with Redis, using Compose Watch for live updates, and splitting services for better modularity. With these basics, we can efficiently orchestrate and scale containerized applications.
+
+The work through https://docs.docker.com/compose/gettingstarted/#step-1-set-up
