@@ -65,7 +65,7 @@ docker compose up -d --build
 ```
 ![alt text](image/step31.png)
 
-2. View the details in Docker Desktop Dashboard
+2. View the details in Docker Desktop Dashboard.
 
 ![alt text](image/step33.png)
 
