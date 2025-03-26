@@ -70,4 +70,4 @@ docker compose up -d --build
 ![alt text](image/step33.png)
 
 ## Conclusion
-This practical demonstrated how Docker networking allows containers to communicate with each other efficiently. By manually setting up a network and running containers, we ensured that services like Nginx, Node.js, and Redis worked together.Additionally, Docker Compose simplified the deployment process, making it easier to manage and scale multi-container applications.
+This practical demonstrated how Docker networking allows containers to communicate with each other efficiently. By manually setting up a network and running containers, we ensured that services like Nginx, Node.js, and Redis worked together.Additionally, Docker Compose simplified the deployment process, making it easier to manage and scale multi-container applications
